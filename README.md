@@ -1,5 +1,5 @@
-Js Hello World Demo
-===================
+Js Window "resize" Demo
+=======================
 
 Open `index.html` in your browser.
 
